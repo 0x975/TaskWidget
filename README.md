@@ -1,5 +1,5 @@
 # Task-Widget
-Simple QT5 widget for enumiration all running processes in Linux operation system. QT5 process viewer, task widget
+Simple QT widget for enumiration all running processes in Linux operation system. QT process viewer, task widget
 
 <h1> Feautures  </h1>
 <ul>
